@@ -1,15 +1,15 @@
 remote_theme: BDHU/minimalist
 highlighter: rogue
+
 title: Table of Contents
+
+
 descriptionTitle: Description
-picturesTitle: Pictures
-storyTitle: The story of BANTR
-defineTitle: >
-  "Define" statement
-howItWorksTitle: How it works
-sampleFilesTitle: Sample files
-finalCodeTitle: Final code
+finalTitle: Final product
+needTitle: The need
+approachTitle: The approach
+prototypeTitle: Prototyping
+
 projectBy: Project by Hayden Hirsch
 projectSchool: Gibson Ek High School
-# alternative description: Creating a python program to assist in the process of matching incoming freshman and upper classmen based on their interests for the Gibson Ek Buddy Program.
 livereload: True
