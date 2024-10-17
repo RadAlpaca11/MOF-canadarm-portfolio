@@ -1,10 +1,10 @@
 # Museum of Flight Internship: CANADARM living history activity
 
 ## Description
-Creating a living history activity at the [https://museumofflight.org](Museum of Flight), in Seattle, WA, to engage visitors to learn about the CANADARM (the robotic arm used to deploy, manipulate, and retrieve payload and astronauts) and the Mission Specialist astronaut role on the Space Shuttle missions. 
+Creating a living history activity at the [Museum of Flight](https://museumofflight.org), in Seattle, WA, to engage visitors to learn about the CANADARM (the robotic arm used to deploy, manipulate, and retrieve payload and astronauts) and the Mission Specialist astronaut role on the Space Shuttle missions. 
 
 ## Final product
-
+include document and pictures
 
 ## The need
 As a volunteer at the museum, I was stationed at the Space Shuttle Full Fuselage Trainer, to answer any questions museum visitors had. One of my favorite features of the Space Shuttle is the CANADARM, not surprising since I am so interested in robotics.  However, I noticed that museum visitors would often walk through the FFT exhibit and not even notice this incredible feat of engineering.  I wanted to change that. I wanted everyone to learn about the CANADARM because I think it is a fascinating part of the space shuttle.
