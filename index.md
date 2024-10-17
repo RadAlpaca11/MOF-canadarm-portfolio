@@ -22,6 +22,10 @@ When talking with the museum staff and volunteers, I discovered that they had so
 The activity started out very simple, scattering objects around on the ground, and a bin that they would have to drop the objects in using the arm.
 Over time it evolved. First with decorating the bin to look like the space shuttle, so that they were retrieving objects from space, into the payload bay.
 This helped to connect what visitors were doing, to the actual space shuttle. 
+The next thing was making a graphic to go along with the activity.
+A draft was made, printed, and laminated to test it out, and it was a huge success.
+It gave the activity more structure, connection to the space shuttle, and generated more interest, since it looked pretty cool.
+After the success with the draft, I was able to meet with the Graphics Team at the museum, who would be able to make a real graphic to use with the activity.
 
 
 
