@@ -4,6 +4,9 @@
 Creating a living history activity at the [Museum of Flight](https://museumofflight.org), in Seattle, WA, to engage visitors to learn about the CANADARM (the robotic arm used to deploy, manipulate, and retrieve payload and astronauts) and the Mission Specialist astronaut role on the Space Shuttle missions. 
 
 ## Final product
+[Training Document](https://docs.google.com/document/d/1m9AUOT_0niWfjY-ggKWS2YEaCSL5oKohqTKED0P7zqQ/edit?usp=sharing)
+
+
 include document and pictures
 include pictures of graphic, and earlier pictures of graphic drafts as well
 
