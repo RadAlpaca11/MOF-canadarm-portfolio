@@ -14,16 +14,12 @@ Set up activity:
 ![Final Graphic](/images/CANADARMgraphicFinal.jpg)
 
 
-include document and pictures
-include pictures of graphic, and earlier pictures of graphic drafts as well
-
-
 ## The need
 As a volunteer at the museum, I was stationed at the Space Shuttle Full Fuselage Trainer (FFT) to answer any questions museum visitors had. One of my favorite features of the Space Shuttle is the CANADARM, not surprising since I am so interested in robotics. However, I noticed that museum visitors would often walk through the FFT exhibit without noticing this incredible feat of engineering. I wanted to change that. I wanted everyone to learn about the CANADARM because I think it is a fascinating part of the Space Shuttle.
 
 
 ## The approach
-To make sure people engaged with this activity and learned about the CANADARM, the activity needed to be fun and interactive. It was also important to me that the activity appealed to people of all ages - especially younger children since they make up so many of the museum’s visitors.
+To make sure people engaged with this activity and learned about the CANADARM, the activity needed to be fun and interactive. It was also important to me that the activity appealed to people of all ages - especially younger children since they make up so many of the museum's visitors.
 
 
 ## Prototyping
