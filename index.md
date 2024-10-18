@@ -26,6 +26,7 @@ However, I noticed that museum visitors would often walk through the FFT exhibit
 
 In addition to learning about the CANADARM, I wanted visitors to learn about the role of the Mission Specialist astronaut. This is an important role, as the Mission Specialist was responsible for payload, experimental activities, operating the CANADARM, and more. 
 One of the highlights of this project for me was getting the opportunity to have two Zoom calls with Astronaut Megan McArthur, who was the Mission Specialist on STS-125, a Space Shuttle mission in 2009, where she operated the CANADARM to help repair the Hubble Space Telescope.
+![Picture from Zoom](/images/meganMcArthurZoom.png)
 
 ## The approach
 To make sure people engaged with this activity and learned about the CANADARM, the activity needed to be fun and interactive. It was also important to me that the activity appealed to people of all ages - especially younger children since they make up so many of the museum's visitors.
