@@ -24,6 +24,8 @@ The FFT has a wooden mock-up of the CANADARM where it would be located in the pa
 The arm is a wooden model, as the actual arm could not hold it's own weight in earths gravity.
 However, I noticed that museum visitors would often walk through the FFT exhibit without noticing this incredible feat of engineering. I wanted to change that. I wanted everyone to learn about the CANADARM because I think it is a fascinating part of the Space Shuttle.
 
+In addition to learning about the CANADARM I wanted visitors to learn about the role of the Mission Specialist astronaut. This is an important role, as the mission specialist was responsible for payload, experimental activities, operating the Shuttle's systems (including the CANADARM), and more. 
+
 
 ## The approach
 To make sure people engaged with this activity and learned about the CANADARM, the activity needed to be fun and interactive. It was also important to me that the activity appealed to people of all ages - especially younger children since they make up so many of the museum's visitors.
@@ -41,5 +43,3 @@ The next improvement was creating an accompanying graphic. We started with a dra
 
 ### Misc content that has nowhere to go, yet...
 During research, I decided to incorporate the role of Mission Specialiast into the activity, because it is an important astronaut role. 
-
-The FFT was what all the astronauts would train in before going on a mission in the space shuttle, and it has a wooden mock-up of the CANADARM where it would be located in the payload bay. The arm is a wooden model, as the actual arm could not hold it's own weight in earth's gravity. 
