@@ -10,6 +10,8 @@ Creating a living history activity at the [Museum of Flight](https://museumoffli
 ## Final product
 [Training Document](https://docs.google.com/document/d/1m9AUOT_0niWfjY-ggKWS2YEaCSL5oKohqTKED0P7zqQ/edit?usp=sharing){:target="_blank"}
 
+![Final Graphic](/images/CANADARMgraphicFinal.jpg)
+
 
 include document and pictures
 include pictures of graphic, and earlier pictures of graphic drafts as well
