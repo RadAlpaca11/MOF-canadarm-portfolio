@@ -17,15 +17,15 @@ In fact, I recently heard from the Volunteer Coordinator at the museum that a ne
 
 ## The need
 As a volunteer at the museum, I was stationed at the Space Shuttle Full Fuselage Trainer (FFT) to answer any questions museum visitors had. 
-The FFT was what all the astronauts would train in before going on a mission in the space shuttle.
+The FFT was what all the astronauts would train in before going on a mission in the Space Shuttle.
 
 One of my favorite features of the Space Shuttle is the CANADARM, not surprising since I am so interested in robotics. 
 The FFT has a wooden mock-up of the CANADARM where it would be located in the payload bay.
-The arm is a wooden model, as the actual arm could not hold it's own weight in earths gravity.
+The arm is a wooden model, as the actual arm could not hold its own weight in Earth's gravity.
 However, I noticed that museum visitors would often walk through the FFT exhibit without noticing this incredible feat of engineering. I wanted to change that. I wanted everyone to learn about the CANADARM because I think it is a fascinating part of the Space Shuttle.
 
-In addition to learning about the CANADARM I wanted visitors to learn about the role of the Mission Specialist astronaut. This is an important role, as the mission specialist was responsible for payload, experimental activities, operating the Shuttle's systems (including the CANADARM), and more. 
-
+In addition to learning about the CANADARM, I wanted visitors to learn about the role of the Mission Specialist astronaut. This is an important role, as the Mission Specialist was responsible for payload, experimental activities, operating the CANADARM, and more. 
+One of the highlights of this project for me was getting the opportunity to have two Zoom calls with Astronaut Megan McArthur, who was the Mission Specialist on STS-125, a Space Shuttle mission in 2009, where she operated the CANADARM to help repair the Hubble Space Telescope.
 
 ## The approach
 To make sure people engaged with this activity and learned about the CANADARM, the activity needed to be fun and interactive. It was also important to me that the activity appealed to people of all ages - especially younger children since they make up so many of the museum's visitors.
