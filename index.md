@@ -2,7 +2,6 @@
 
 ## Description
 Creating a living history activity at the [Museum of Flight](https://museumofflight.org){:target="_blank"}, in Seattle, WA, to engage visitors in learning about:
-
 - The CANADARM: The robotic arm used to deploy, manipulate, and retrieve payloads and astronauts.
 - The Mission Specialist astronaut role on Space Shuttle missions.
 
@@ -10,7 +9,7 @@ Creating a living history activity at the [Museum of Flight](https://museumoffli
 ## Final product
 [Training Document](https://docs.google.com/document/d/1m9AUOT_0niWfjY-ggKWS2YEaCSL5oKohqTKED0P7zqQ/edit?usp=sharing){:target="_blank"}
 
-Set up activity:
+**Set up activity:**
 ![Final Graphic](/images/CANADARMgraphicFinal.jpg)
 
 
@@ -26,10 +25,10 @@ To make sure people engaged with this activity and learned about the CANADARM, t
 During discussions with museum staff and volunteers, I discovered they had some grabber arms available, and I saw an amazing opportunity to use them for the new activity. The initial concept was straightforward: objects were scattered on the ground, and visitors used the arm to pick them up and drop them into a bin. Over time, the activity evolved. The first enhancement involved decorating the bin to resemble the Space Shuttle, transforming the task into retrieving objects from "space" into the payload bay. This modification helped visitors connect their actions to actual Space Shuttle operations.
 The next improvement was creating an accompanying graphic. We started with a draft version, which was printed and laminated for testing. This addition was a huge success. It provided more structure to the activity, strengthened the connection to the Space Shuttle, and generated greater interest among visitors due to its visual appeal. Encouraged by the draft's positive reception, I had a meeting with the museum's Graphics Team to discuss the creation of a professional-quality graphic for long-term use with the activity.
 
-Prototype graphic:
+**Prototype graphic:**
 ![Prototype Graphic](/images/CANADARMgraphicPrototype.jpg)
 
-Final graphic:
+**Final graphic:**
 ![Final Graphic](/images/CANADARMgraphicFinal.jpg)
 
 ### Misc content that has nowhere to go, yet...
