@@ -16,24 +16,16 @@ include pictures of graphic, and earlier pictures of graphic drafts as well
 
 
 ## The need
-As a volunteer at the museum, I was stationed at the Space Shuttle Full Fuselage Trainer, to answer any questions museum visitors had. One of my favorite features of the Space Shuttle is the CANADARM, not surprising since I am so interested in robotics.  However, I noticed that museum visitors would often walk through the FFT exhibit and not even notice this incredible feat of engineering.  I wanted to change that. I wanted everyone to learn about the CANADARM because I think it is a fascinating part of the space shuttle.
+As a volunteer at the museum, I was stationed at the Space Shuttle Full Fuselage Trainer (FFT) to answer any questions museum visitors had. One of my favorite features of the Space Shuttle is the CANADARM, not surprising since I am so interested in robotics. However, I noticed that museum visitors would often walk through the FFT exhibit without noticing this incredible feat of engineering. I wanted to change that. I wanted everyone to learn about the CANADARM because I think it is a fascinating part of the Space Shuttle.
 
 
 ## The approach
-To make sure people engaged with this activity and learned about the CANADARM, the activity had to be fun and interactive. It was also important to me that the activity would appeal to people of all ages - especially younger children since they make up so many of the museum's visitors.
-
+To make sure people engaged with this activity and learned about the CANADARM, the activity needed to be fun and interactive. It was also important to me that the activity appealed to people of all ages - especially younger children since they make up so many of the museum’s visitors.
 
 
 ## Prototyping
-When talking with the museum staff and volunteers, I discovered that they had some grabber arms, and I saw the amazing opportunity to use them for the activity.
-The activity started out very simple, scattering objects around on the ground, and a bin that they would have to drop the objects in using the arm.
-Over time it evolved. First with decorating the bin to look like the space shuttle, so that they were retrieving objects from space, into the payload bay.
-This helped to connect what visitors were doing, to the actual space shuttle. 
-The next thing was making a graphic to go along with the activity.
-A draft was made, printed, and laminated to test it out, and it was a huge success.
-It gave the activity more structure, connection to the space shuttle, and generated more interest, since it looked pretty cool.
-After the success with the draft, I was able to meet with the Graphics Team at the museum, who would be able to make a real graphic to use with the activity.
-
+During discussions with museum staff and volunteers, I discovered they had some grabber arms available, and I saw an amazing opportunity to use them for the new activity. The initial concept was straightforward: objects were scattered on the ground, and visitors used the arm to pick them up and drop them into a bin. Over time, the activity evolved. The first enhancement involved decorating the bin to resemble the Space Shuttle, transforming the task into retrieving objects from "space" into the payload bay. This modification helped visitors connect their actions to actual Space Shuttle operations.
+The next improvement was creating an accompanying graphic. We started with a draft version, which was printed and laminated for testing. This addition was a huge success. It provided more structure to the activity, strengthened the connection to the Space Shuttle, and generated greater interest among visitors due to its visual appeal. Encouraged by the draft's positive reception, I had a meeting with the museum's Graphics Team to discuss the creation of a professional-quality graphic for long-term use with the activity.
 
 
 ### Misc content that has nowhere to go, yet...
