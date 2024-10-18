@@ -6,13 +6,13 @@ Creating a living history activity at the [Museum of Flight](https://museumoffli
 - The Mission Specialist astronaut role on Space Shuttle missions.
 
 
-## Final product
-The final product for this project was a complete [training document](https://docs.google.com/document/d/1m9AUOT_0niWfjY-ggKWS2YEaCSL5oKohqTKED0P7zqQ/edit?usp=sharing){:target="_blank"} so that other museum volunteers could run this activity, even after I had completed my internship.
+## Final deliverable
+The final deliverable for this project was a complete [training document](https://docs.google.com/document/d/1m9AUOT_0niWfjY-ggKWS2YEaCSL5oKohqTKED0P7zqQ/edit?usp=sharing){:target="_blank"} so that other museum volunteers could run this activity even after I had completed my internship.
 It was my hope that this activity would continue to educate museum visitors in the future.
-I recently heard from the volunteer coordinator at the museum that a new volunteer is now running the activity.
+In fact, I recently heard from the Volunteer Coordinator at the museum that a new volunteer is now running the activity.
 
-**This is the complete activity set up:**
-![Final Graphic](/images/CANADARMgraphicFinal.jpg)
+**This is the complete activity set up (grabber not shown):**
+![Final Deliverable](/images/CANADARMgraphicFinal.jpg)
 
 
 ## The need
@@ -31,7 +31,7 @@ The next improvement was creating an accompanying graphic. We started with a dra
 ![Prototype Graphic](/images/CANADARMgraphicPrototype.jpg)
 
 **This is the final graphic after working with the museum graphics team:**
-![Final Graphic](/images/CANADARMgraphicFinal.jpg)
+![Final Graphic](/images/CANADARMgraphicDigital.png)
 
 ### Misc content that has nowhere to go, yet...
 During research, I decided to incorporate the role of Mission Specialiast into the activity, because it is an important astronaut role. 
