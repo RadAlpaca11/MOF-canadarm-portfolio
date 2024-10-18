@@ -41,6 +41,3 @@ The next improvement was creating an accompanying graphic. We started with a dra
 
 **This is the final graphic after working with the museum graphics team:**
 ![Final Graphic](/images/CANADARMgraphicDigital.png)
-
-### Misc content that has nowhere to go, yet...
-During research, I decided to incorporate the role of Mission Specialiast into the activity, because it is an important astronaut role. 
