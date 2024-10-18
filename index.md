@@ -7,7 +7,9 @@ Creating a living history activity at the [Museum of Flight](https://museumoffli
 
 
 ## Final product
-[Training Document](https://docs.google.com/document/d/1m9AUOT_0niWfjY-ggKWS2YEaCSL5oKohqTKED0P7zqQ/edit?usp=sharing){:target="_blank"}
+The final product for this project was a complete [training document](https://docs.google.com/document/d/1m9AUOT_0niWfjY-ggKWS2YEaCSL5oKohqTKED0P7zqQ/edit?usp=sharing){:target="_blank"} so that other museum volunteers could run this activity, even after I had completed my internship.
+It was my hope that this activity would continue to educate museum visitors in the future.
+I recently heard from the volunteer coordinator at the museum that a new volunteer is now running the activity.
 
 **Set up activity:**
 ![Final Graphic](/images/CANADARMgraphicFinal.jpg)
