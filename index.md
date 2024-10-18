@@ -25,7 +25,8 @@ The arm is a wooden model, as the actual arm could not hold its own weight in Ea
 However, I noticed that museum visitors would often walk through the FFT exhibit without noticing this incredible feat of engineering. I wanted to change that. I wanted everyone to learn about the CANADARM because I think it is a fascinating part of the Space Shuttle.
 
 In addition to learning about the CANADARM, I wanted visitors to learn about the role of the Mission Specialist astronaut. This is an important role, as the Mission Specialist was responsible for payload, experimental activities, operating the CANADARM, and more. 
-One of the highlights of this project for me was getting the opportunity to have two Zoom calls with Astronaut Megan McArthur, who was the Mission Specialist on STS-125, a Space Shuttle mission in 2009, where she operated the CANADARM to help repair the Hubble Space Telescope.
+One of the highlights of this project for me was getting the opportunity to have two Zoom calls with Astronaut Megan McArthur(Mission Specialist on STS-125 in 2009) who operated the CANADARM to help repair the Hubble Space Telescope.
+**Me on a Zoom call with my Dad and Astronaut Megan McArthur:**
 ![Picture from Zoom](/images/meganMcArthurZoom.png)
 
 ## The approach
